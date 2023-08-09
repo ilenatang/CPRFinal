@@ -1,0 +1,19 @@
+*** Start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+what is the weather today?
+Type the character position within the string:
+2
+The character found at 2 position is 'a'
+Type not empty string (q - to quit):
+dhwewhbhhdddddddddddddvdffffffffffffffffdvevfvevfghevrfgevrfgvrfgervgrvfghvrfvrfvgrfv
+Type the character position within the string:
+The character found at 0 position is 'd'
+Type not empty string (q - to quit):
+Q
+Type the character position within the string:
+3
+Too big... Position reduced to max. available
+The character found at 0 position is 'Q'
+Type not empty string (q - to quit):
+q
+*** End of Indexing Strings Demo ***

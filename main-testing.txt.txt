@@ -1,0 +1,107 @@
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+1
+*** Start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+  what is the weather today?
+Type the character position within the string:
+1
+The character found at 1 position is ' '
+Type not empty string (q - to quit):
+aaa
+Type the character position within the string:
+2
+The character found at 2 position is 'a'
+Type not empty string (q - to quit):
+Q
+Type the character position within the string:
+2
+Too big... Position reduced to max. available
+The character found at 0 position is 'Q'
+Type not empty string (q - to quit):
+q
+*** End of Indexing Strings Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+2
+*** Start of Concatenation strings Demo ***
+Type the 1st string (q - to quit):
+what
+Type the 2nd string:
+is
+Concatenated string is 'whatis'
+Type the 1st string (q - to quit):
+The world economy is a complex web of interconnected financial systems, trade
+Type the 2nd string:
+networks, and diverse cultures. It represents the sum total of all economic ac
+Concatenated string is 'The world economy is a complex web of interconnected financial systems, tradenetworks, and diverse cultures. It represents the sum total of all economic ac'
+Type the 1st string (q - to quit):
+The world economy is a complex web of interconnected financial systems, trade networks, and diverse cultures
+Type the 2nd string:
+Concatenated string is 'The world economy is a complex web of interconnected financial systems, trade etworks, and diverse cultures'
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+4
+*** Start of Tokenizing Words Demo ***
+Type a few words separated by space (q - to quit):
+
+Type a few words separated by space (q - to quit):
+123 456
+Word #1 is '123'
+Word #2 is '456'
+Type a few words separated by space (q - to quit):
+!@ $%
+Word #1 is '!@'
+Word #2 is '$%'
+Type a few words separated by space (q - to quit):
+q
+*** End of Tokenizing Words Demo***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+3
+*** Start of Converting Strings to int Demo ***
+Type an int numeric string (q - to quit) :
+123
+Converting number is 123
+Type an int numeric string (q - to quit) :
+123.3
+Converting number is 123
+Type an int numeric string (q - to quit) :
+abc
+Converting number is 0
+Type an int numeric string (q - to quit) :
+q
+*** End of Converting Strings to int Demo ***
+
+1 - Fundamentals
+2 - Manipulation
+3 - Converting
+4 - Tokenizing
+0 - Exit
+Which module to run?
+0
+
+C:\Users\14377\Desktop\Project1\x64\Debug\Project1.exe (process 16324) exited with code 0.
+Press any key to close this window . . .

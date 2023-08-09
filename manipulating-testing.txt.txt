@@ -1,0 +1,28 @@
+*** Start of Concatenation strings Demo ***
+Type the 1st string (q - to quit):
+what
+Type the 2nd string:
+is
+Concatenated string is 'what is '
+Type the 1st string (q - to quit):
+The world economy is a complex web of interconnected financial systems, trade
+Type the 2nd string:
+networks, and diverse cultures. It represents the sum total of all economic ac
+Concatenated string is 'The world economy is a complex web of interconnected financial systems, trade networksand didiverse cultures. It represents the sum total of l econonomic ac'
+Type the 1st string (q - to quit):
+The world economy is a complex web of interconnected financial systems, trade n
+Type the 2nd string:
+Concatenated string is 'The world economy is a complex web of interconnected financial systems, trade '
+Type the 1st string (q - to quit):
+The world economy is a complex web of interconnected financial systems, trade networks, and diverse cultures.
+Type the 2nd string:
+Concatenated string is 'The world economy is a complex web of interconnected financial systems, trade etworks,nd divirse culultures.'
+Type the 1st string (q - to quit):
+!@#$%^&*
+Type the 2nd string:
+()_+{}|:"><?
+Concatenated string is '!@#$%^&*()_+{}|:"><?'
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+

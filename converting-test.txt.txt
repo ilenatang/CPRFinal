@@ -1,0 +1,26 @@
+*** Start of Converting Strings to int Demo ***
+Type an int numeric string (q - to quit) :
+123
+Converting number is 123
+Type an int numeric string (q - to quit) :
+123.3
+Converting number is 123
+Type an int numeric string (q - to quit) :
+-123
+Converting number is -123
+Type an int numeric string (q - to quit) :
+1a2b3c
+Converting number is 1
+Type an int numeric string (q - to quit) :
+abc
+Converting number is 0
+Type an int numeric string (q - to quit) :
+q
+*** End of Converting Strings to int Demo ***
+
+
+C:\Users\14377\Desktop\cpr group project\x64\Debug\cpr group project.exe (process 10172) exited with code 0.
+Press any key to close this window . . .
+
+
+
