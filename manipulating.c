@@ -3,7 +3,7 @@
 #define BUFFER_SIZE 80
 #include "manipulating.h"
 //V1
-void manipulating(void)
+void manipulating1(void)
 {
 	printf("*** Start of Concatenation strings Demo ***\n");
 	char string1[BUFFER_SIZE];
@@ -27,3 +27,38 @@ void manipulating(void)
 
 }
 
+//V2
+void manipulating(void)
+{
+	printf("*** Start of Comparing Strings Demo ***\n");
+	char compare1[BUFFER_SIZE];
+	char compare2[BUFFER_SIZE];
+	int result;
+	do {
+		printf("Type the lst string to compare (q - to quit):\n");
+		fgets(compare1, BUFFER_SIZE, stdin);
+		compare1[strlen(compare1) - 1] = '\0';
+		if (strcmp(compare1, "q") != 0) {
+			printf("Type the 2nd string to compare:\n");
+			fgets(compare2, BUFFER_SIZE, stdin);
+			compare2[strlen(compare2) - 1] = '\0';
+			result = strcmp(compare1, compare2);
+			if (result < 0)
+				printf("\'%s\' string is less than \'%s\'\n", compare1, compare2);
+			else if (result == 0)
+				printf("\'%s\' string is equal to \'%s\'\n", compare1, compare2);
+			else
+				printf("\'%s\' string is greater than \'%s\'\n", compare1, compare2);
+		}
+	}while (strcmp(compare1, "q") != 0);
+	printf("*** End of Comparing Strings Demo ***\n\n");
+}
+
+#if 0
+//unit test
+int main(void)
+{
+	manipulating();
+	return 0;
+}
+#endif

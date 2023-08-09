@@ -1,3 +1,5 @@
+//V1
+
 *** Start of Concatenation strings Demo ***
 Type the 1st string (q - to quit):
 what
@@ -25,4 +27,39 @@ Concatenated string is '!@#$%^&*()_+{}|:"><?'
 Type the 1st string (q - to quit):
 q
 *** End of Concatenating Strings Demo ***
+
+//V2
+
+*** Start of Comparing Strings Demo ***
+Type the lst string to compare (q - to quit):
+abcde
+Type the 2nd string to compare:
+abcdd
+'abcde' string is greater than 'abcdd'
+Type the lst string to compare (q - to quit):
+12345
+Type the 2nd string to compare:
+23456
+'12345' string is less than '23456'
+Type the lst string to compare (q - to quit):
+The world economy is a complex web of interconnected financial systems, trade
+Type the 2nd string to compare:
+networks, and diverse cultures. It represents the sum total of all economic ac
+'The world economy is a complex web of interconnected financial systems, trade ' string is less than 'networks, and diverse cultures. It represents the sum total of all economic ac'
+Type the lst string to compare (q - to quit):
+The world economy is a complex web of interconnected financial systems, trade n
+Type the 2nd string to compare:
+'The world economy is a complex web of interconnected financial systems, trade ' string is greater than ''
+Type the lst string to compare (q - to quit):
+The world economy is a complex web of interconnected financial systems, trade networks, and diverse cultures.
+Type the 2nd string to compare:
+'The world economy is a complex web of interconnected financial systems, trade ' string is less than 'etworks, and diverse cultures.'
+Type the lst string to compare (q - to quit):
+!@#$%^&*
+Type the 2nd string to compare:
+()_+{}|:"><?
+'!@#$%^&*' string is less than '()_+{}|:"><?'
+Type the lst string to compare (q - to quit):
+q
+*** End of Comparing Strings Demo ***
 
